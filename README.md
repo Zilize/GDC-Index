@@ -14,6 +14,8 @@ The Game Developers Conference (GDC) summaries in English and Chinese, which do 
 
 - [Game Narrative 游戏叙事](./2024/game-narrative.md)
 
+- [Independent Games 独立游戏](./2024/independent-games.md)
+
 - [Production & Team Leadership 游戏制作与团队领导力](./2024/production.md)
 
 - [Programming 游戏程序](./2024/programming.md)
