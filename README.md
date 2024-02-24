@@ -1,24 +1,24 @@
 # GDC-Index
 
-The Game Developers Conference (GDC) summaries in English and Chinese, which does not include sessions in all tracks.
+The Game Developers Conference (GDC) summaries in English and Chinese, which does not include sessions in all tracks. The Chinese part is translated by `gpt-3.5-turbo`.
 
-游戏开发者大会（GDC）摘要中英文对照，并不覆盖所有方向话题。
+游戏开发者大会（GDC）摘要中英文对照，并不覆盖所有方向话题。中文部分由 `gpt-3.5-turbo` 完成翻译。
 
 ## GDC 2024
 
-![](./assets/2024.png)
+<img src="./assets/2024.png" alt="Your Image" style="width: 60%; height: auto;">
 
-- [Audio](./2024/audio.md)
+- [Audio 游戏音频](./2024/audio.md)
 
-- [Design](./2024/design.md)
+- [Design 游戏设计](./2024/design.md)
 
-- [Game Narrative](./2024/game-narrative.md)
+- [Game Narrative 游戏叙事](./2024/game-narrative.md)
 
-- [Production](./2024/production.md)
+- [Production & Team Leadership 游戏制作与团队领导力](./2024/production.md)
 
-- [Programming](./2024/programming.md)
+- [Programming 游戏程序](./2024/programming.md)
 
-- [Visual Arts](./2024/visual-arts.md)
+- [Visual Arts 游戏视觉艺术](./2024/visual-arts.md)
 
-- [VR / AR](./2024/vr-ar.md)
+- [VR / AR 虚拟现实与增强现实](./2024/vr-ar.md)
 
