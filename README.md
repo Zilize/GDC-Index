@@ -6,7 +6,7 @@ The Game Developers Conference (GDC) summaries in English and Chinese, which do 
 
 ## GDC 2024
 
-<img src="./assets/2024.png" alt="Your Image" style="width: 70%; height: auto;">
+<img src="./assets/gdc-2024.png" alt="Your Image" style="width: 70%; height: auto;">
 
 - [Audio 游戏音频](./2024/audio.md)
 
