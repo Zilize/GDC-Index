@@ -89,9 +89,9 @@ Apex Legends’ 26th Legend presented a significant technical challenge; one of 
 
 作者：Wenxi Zhu  (Engineering manager, AI Arena Platform, Tencent)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类为空
+文章摘要为空。
 
 ## Arm Developer Summit: Arm Opening Keynote - Introducing Arm Accuracy Super Resolution and What's New in Arm GPUs (Presented by Arm)
 
@@ -99,9 +99,9 @@ abstract is empty
 
 作者：Lisa Sheckleford  (Senior Product Manager, Arm)、Philip Garcia  (Principal GPU Architect, Arm)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类是空的（Abstract class is empty）
+文章摘要为空。
 
 ## Arm Developer Summit: Breaking Into AI: Essential Skills for the Next Generation of Game Designers and Industry Leaders (Presented by Arm)
 
@@ -109,9 +109,9 @@ abstract is empty
 
 作者：Kai Qin  (Product Expert, AI Platform Department, Tencent)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类为空
+文章摘要为空。
 
 ## Arm Developer Summit: Profiling and Optimizing Godot Engine for Mobile With Arm Performance Studio (Presented by Arm)
 
@@ -119,9 +119,9 @@ abstract is empty
 
 作者：Clay John  (Board member and Rendering Team Lead, Godot Foundation and W4 Games)、Ian Bolton  (Developer Relations Manager, Arm)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类是空的（Abstract class is empty）
+文章摘要为空。
 
 ## Arm Developer Summit: Roundtable – Artificial Intelligence Serves Natural Intelligence in Games (Presented by Arm)
 
@@ -129,9 +129,9 @@ abstract is empty
 
 作者：Stefana Simion  (Senior Engineering Manager, Arm)、Professor Tim Bates  (The Godfather of Tech, https://thegodfatheroftech.com/)、David Sena  (Graphics Technical Director, Natural Motion)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类是空的（Abstract class is empty）
+文章摘要为空。
 
 ## Arm Developer Summit: Unreal Engine for Mobile Game Development (Presented by Arm)
 
@@ -139,9 +139,9 @@ abstract is empty
 
 作者：Arvind Neelakantan  (Solutions Architect, Epic Games)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类是空的（Abstract class is empty）
+文章摘要为空。
 
 ## Automated Testing Roundtables Day 1: Process
 
@@ -1098,9 +1098,9 @@ In this session, we will discuss how you can use a ray-tracing technique to scal
 
 作者：Kylan Gibbs  (CEO & Co-Founder of Inworld AI, Inworld AI)
 
-abstract is empty
+The abstract of the article is empty.
 
-抽象类为空（abstract class is empty）
+文章摘要为空。
 
 ## Smash the Scene in 'Marvel Rivals'
 
