@@ -1,8 +1,12 @@
 # GDC-Index
 
-The Game Developers Conference (GDC) summaries in English and Chinese, which do not include sessions in all tracks. The Chinese part is translated by `gpt-3.5-turbo`.
+The Game Developers Conference (GDC) summaries in English and Chinese, which do not include sessions in all tracks. The Chinese part is translated by `gpt-3.5-turbo` / `qwen-turbo`.
 
-游戏开发者大会（GDC）摘要中英文对照，并不覆盖所有方向话题。中文部分由 `gpt-3.5-turbo` 完成翻译。
+游戏开发者大会（GDC）摘要中英文对照，并不覆盖所有方向话题。中文部分由 `gpt-3.5-turbo` / `qwen-turbo` 完成翻译。
+
+## GDC 2025
+
+- [Programming 游戏程序](./2025/programming.md)
 
 ## GDC 2024
 
